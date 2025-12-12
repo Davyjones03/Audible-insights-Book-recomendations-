@@ -9,4 +9,6 @@ Deep Learning Model: Utilizes an architecture (e.g., SBERT model) for efficient 
 
 Data Processing: Includes robust data cleaning, feature engineering, and handling of explicit/implicit feedback.
 
-Evaluation: Assesses model performance using metrics relevant to recommendation systems
+Evaluation: Assesses model performance using Relevant metrics 
+
+Bult Streamlit App for a Working recommendation system and EDA viz 
